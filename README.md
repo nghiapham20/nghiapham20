@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nghia</h1>
-<h3 align="center">I am a software engineer</h3>
+<h1">Hi 👋, I'm Nghia</h1>
+<h3>I am a software engineer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://your-image-link.com/avatar.png" width="180" style="border-radius:50%">
-</p>
+</p> -->
 
 ## 👨‍💻 About Me
 
