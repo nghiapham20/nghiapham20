@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hữu Nghĩa</h1>
-<h3 align="center">Data Engineer / Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Nghia</h1>
+<h3 align="center">I am a software engineer</h3>
 
 <p align="center">
   <img src="https://your-image-link.com/avatar.png" width="180" style="border-radius:50%">
