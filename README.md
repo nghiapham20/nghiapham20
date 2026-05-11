@@ -1,4 +1,4 @@
-<h1">Hi 👋, I'm Nghia</h1>
+<h1>Hi 👋, I'm Nghia</h1>
 <h3>I am a software engineer</h3>
 
 <!-- <p align="center">
@@ -31,5 +31,5 @@ I am interested in **Data Engineering, Machine Learning, Spark, Hadoop, and Big 
 
 ## 📫 Contact Me
 
-- Email: yourmail@gmail.com
-- LinkedIn: Your LinkedIn
+- Email: iamphamhuunghia@gmail.com
+- Phone: 0869302820
